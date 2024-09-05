@@ -40,4 +40,12 @@
 /BulkyWebRazor_Temp/obj/BulkyWebRazor_Temp.csproj.nuget.dgspec.json
 /BulkyWebRazor_Temp/bin/*
 /BulkyWebRazor_Temp/obj/*
-/BulkyWeb/bin/Debug/net7.0
+/BulkyWebRazor_Temp/bin/*
+/BulkyWeb/bin/*
+/BulkyWeb/obj/*
+/Bulky.Utility/bin/*
+/Bulky.Utility/obj/*
+/Bulky.Models/bin/*
+/Bulky.Models/obj/*
+/Bulky.DataAccess/bin/*
+/Bulky.DataAccess/obj/*
