@@ -38,3 +38,6 @@
 /BulkyWebRazor_Temp/obj/Debug/net7.0/BulkyWebRazor_Temp.assets.cache
 /BulkyWebRazor_Temp/obj/BulkyWebRazor_Temp.csproj.nuget.g.props
 /BulkyWebRazor_Temp/obj/BulkyWebRazor_Temp.csproj.nuget.dgspec.json
+/BulkyWebRazor_Temp/bin/*
+/BulkyWebRazor_Temp/obj/*
+/BulkyWeb/bin/Debug/net7.0
