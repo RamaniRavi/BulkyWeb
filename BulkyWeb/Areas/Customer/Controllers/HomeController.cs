@@ -20,17 +20,12 @@ namespace BulkyWeb.Areas.Customer.Controllers
         public IActionResult Index()
         {
             IEnumerable<Product> productList = _unitOfWork.Product.GetAll(includeProperties: "Category");
-            foreach (var item in productList)
-            {
-                item.ImageUrl = "images/product/" + item.ImageUrl;
-            }
             return View(productList);
         }
 
         public IActionResult Details(int productId)
         {
             Product product = _unitOfWork.Product.Get(u => u.Id == productId, includeProperties: "Category");
-            product.ImageUrl = "/images/product/" + product.ImageUrl;
             return View(product);
         }
 
