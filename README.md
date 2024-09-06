@@ -1,7 +1,19 @@
 <h1 align="center">Welcome to BulkyWeb! 📚</h1>
 <h3 align="center">An Online Bookstore built with ASP.NET Core and Entity Framework</h3>
-<h1></h1>
+<h4 align="center">Build With</h4>
+<p align="center">
+    <!-- Languages & Frameworks -->
+    <img src="https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Badge" />
+    <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Badge" />
+    <img src="https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Razor Pages Badge" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge" />
+</p>
 
+---
+
+## About Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ravi-ramani-65a12017b/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/RamaniRavi)
 [![Website](https://img.shields.io/badge/Website-green?style=for-the-badge&logo=netlify)](https://ravi-ramani.netlify.app/)
